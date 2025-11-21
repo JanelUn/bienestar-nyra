@@ -57,19 +57,25 @@
 Lista las principales tecnologías, frameworks y herramientas que planean utilizar:
 
 **Frontend:**
-- [Ejemplo: Next.js, Tailwind CSS, shadcn/ui]
+- React Native (Expo)
+- Tailwind CSS (via NativeWind)
+- React Navigation
 
 **Backend:**
-- [Ejemplo: FastAPI, PostgreSQL, Redis]
+- Supabase Auth (autenticación)
+- Supabase Database (PostgreSQL)
+- Supabase Edge Functions (TypeScript)
+- Supabase Storage
 
 **IA/ML:**
-- [Ejemplo: OpenAI API, LangChain, Scikit-learn]
-
+- OpenAI API (GPT-4.1 / GPT-5.1)
+- Vercel AI SDK
+  
 **Cloud/DevOps:**
-- [Ejemplo: AWS Lambda, S3, API Gateway, Docker]
+- Docker 
 
 **Otras:**
-- [Ejemplo: Selenium para scraping, Pandas para ETL]
+- WhatsApp Cloud API
 
 ---
 
