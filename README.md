@@ -3,7 +3,7 @@
 Bienvenido/a al Hackathon RIMAC 2025 🚀  
 Usa este repositorio para documentar tu solución, avances y resultados durante el evento.
 
----
+--- 
 
 ## 📝 Entregables del hackathon
 
