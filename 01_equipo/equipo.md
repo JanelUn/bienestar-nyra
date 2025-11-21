@@ -21,7 +21,7 @@
 
 ## Nombre del equipo
 
-**[Nombre de tu equipo]**
+**Nyra**
 
 
 ---
@@ -37,7 +37,7 @@
 
 [Escribe aquí tu propuesta]
 
----
+--- Desarrollaremos una aplicación para pacientes con enfermedades crónicas (Diabetes) que integra datos clínicos de Rimac y resultados de laboratorio de Clínica Internacional para personalizar el cambio de hábitos y prevenir complicaciones. La solución combinará modelos de machine learning, IA generativa y análisis de patrones para adaptar recomendaciones de actividad física, alimentación y adherencia a medicamentos según el comportamiento, edad y nivel de autonomía del paciente. El sistema realizará seguimiento continuo de variables diarias, generará alertas tempranas cuando detecte riesgos y permitirá el **acompañamiento de un familiar** mediante notificaciones críticas. Además, una capa de IA producirá resúmenes semanales con insights clínicos y conductuales que pueden integrarse al historial médico del paciente y apoyar la toma de decisiones del doctor.
 
 ## ¿Qué retos/riesgos visualizan? (¿Con qué te podemos ayudar?)
 
@@ -48,8 +48,7 @@
 
 **Tu respuesta:**
 
-[Escribe aquí los retos que visualizas]
-
+Los principales retos son la disponibilidad e integrar datos clínicos de Rimac y Clínicas para personalización, entrenar IA con hábitos de pacientes peruanos mayores de 50 años y alinear la interoperabilidad. Además, requerimos apoyo para complementar los datos del onboarding, donde definimos perfil, hábitos y necesidades del usuario para despegar el potencial de la personalización.
 ---
 
 ## Tecnologías planificadas
@@ -57,9 +56,8 @@
 Lista las principales tecnologías, frameworks y herramientas que planean utilizar:
 
 **Frontend:**
-- React Native (Expo)
+- Nextjs
 - Tailwind CSS (via NativeWind)
-- React Navigation
 
 **Backend:**
 - Supabase Auth (autenticación)
@@ -72,7 +70,7 @@ Lista las principales tecnologías, frameworks y herramientas que planean utiliz
 - Vercel AI SDK
   
 **Cloud/DevOps:**
-- Docker 
+- Vercel 
 
 **Otras:**
 - WhatsApp Cloud API
